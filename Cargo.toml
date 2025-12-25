@@ -1,0 +1,10 @@
+[package]
+name = "piccolo_frozen_test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+gc-arena = "0.5.3"
+piccolo = "0.3.3"
+piccolo-util = "0.3.3"
